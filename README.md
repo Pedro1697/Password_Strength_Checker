@@ -22,3 +22,6 @@ The password security is an esential point to preserve our data in securete way.
 * Pandas for data manipulation and data cleaning
 * Jupyter notebook as IDE
 * Radom Forest Classifier and TF-IDF vectorization for model building
+
+
+**Dataset:** https://www.kaggle.com/datasets/bhavikbb/password-strength-classifier-dataset?resource=download
