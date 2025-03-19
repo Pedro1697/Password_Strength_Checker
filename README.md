@@ -10,10 +10,10 @@ The password security is an esential point to preserve our data in securete way.
    - Cleaning the data for null and duplicate values
    - Passwords are tokenized at the character level
    - TfidfVectorizer converts the characters into numerical values
-2. ** Model training**
+2. **Model training**
    - The X vector for the passwors and y vector for the strength are splitred into training and test sets
    - Random Forest Classifier is trained on the trai ning dataset
-3. ** Prediction & Evaluation **
+3. **Prediction & Evaluation**
    - The model is evaluated using the mean accuracy in the test set
    - With a random example tests the model 
 
