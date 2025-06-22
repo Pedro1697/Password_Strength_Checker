@@ -25,3 +25,5 @@ The password security is an esential point to preserve our data in securete way.
 
 
 **Dataset:** https://www.kaggle.com/datasets/bhavikbb/password-strength-classifier-dataset?resource=download
+ ## License 
+This project is licensed under the MIT License. See the LICENSE file for details.
